@@ -3,11 +3,24 @@
 **risanpaul04/risanpaul04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-### I'm Risan. Currently enjoying my journey of B.Tech in Computer Science
+### I'm **Risan**. Currently enjoying my journey of B.Tech in Computer Science
 
-- 🌱 I’m currently learning DSA & Web development
-- 🔭 I’m currently working as a teaching instructor
-- 💬 Ask me about anything
+- 🌱 I’m currently learning DSA & Web development.
+- 😄 I'm Always ready to learn something new.
+- 🔭 I’m currently working as a teaching instructor.
+- 💬 Ask me about anything.
+
+<details>
+<summary>Languages I'm currently learning</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| C         |
+|     2| C++       |
+|     3| Java      |
+
+</details>
+
 <!--
 - 
 - 👯 I’m looking to collaborate on ...
