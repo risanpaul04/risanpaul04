@@ -14,6 +14,8 @@
 - ⚡ Fun fact: ...
 -->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=risanpaul04&theme=dark&hide_border=true&border_radius=5&exclude_days=Thu&background=141E46&currStreakNum=FFF5E0&ring=BB2525&fire=BB2525&stroke=FFF5E0&border=FFF5E0&sideNums=FFF5E0&currStreakLabel=FFF5E0&sideLabels=FFF5E0&dates=FFF5E0&excludeDaysLabel=EB5454)](https://git.io/streak-stats)
+
 <p align=center>Languages</p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,6 +28,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode" />
   </a>
+</p>
+
+<p align="center">
+  <img align="center" src="https://profile-counter.glitch.me/risanpaul04/count.svg" />
 </p>
 
 <!-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e0ea6aced78d29352c8b34?variant=light&roadmaps=cpp)](https://roadmap.sh) -->
