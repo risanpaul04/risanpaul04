@@ -3,12 +3,14 @@
 **risanpaul04/risanpaul04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-### I'm **Risan**. Currently enjoying my journey of B.Tech in Computer Science
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&pause=500&color=FFBB37&center=true&width=780&height=150&lines=Hello+There!;I'm+Risan+Paul;Pursuing+B.Tech+in+CS+Engineering" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning DSA & Web development.
 - 😄 I'm Always ready to learn something new.
 - 🔭 I’m currently working as a teaching instructor.
 - 💬 Ask me about anything.
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <details>
 <summary>Languages I'm currently learning</summary>
