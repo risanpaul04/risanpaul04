@@ -19,11 +19,11 @@
 <p align=center>Languages</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css" />
   </a>
 </p>
 <br>
-<p align=center>My other skills</p>
+<p align=center>Tools I use</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode" />
