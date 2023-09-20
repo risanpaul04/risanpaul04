@@ -5,16 +5,9 @@
 - 🔭 I’m currently working as a teaching instructor.
 - 💬 Ask me about anything.
 
-<!--
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Streak](https://streak-stats.demolab.com?user=risanpaul04&theme=github-dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Thu)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=risanpaul04&theme=dark&hide_border=true&border_radius=5&exclude_days=Thu&background=141E46&currStreakNum=FFF5E0&ring=BB2525&fire=BB2525&stroke=FFF5E0&border=FFF5E0&sideNums=FFF5E0&currStreakLabel=FFF5E0&sideLabels=FFF5E0&dates=FFF5E0&excludeDaysLabel=EB5454)](https://git.io/streak-stats)
+<!-- link for the stats above (https://git.io/streak-stats)  -->
 
 <p align=center>Languages</p>
 <p align="center">
