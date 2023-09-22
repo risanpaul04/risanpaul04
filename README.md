@@ -5,7 +5,15 @@
 - 🔭 I’m currently working as a teaching instructor.
 - 💬 Ask me about anything.
 
+<br>
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=risanpaul04&theme=github-dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Thu)
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=risanpaul04&theme=dracula)
+
+[![Risan's GitHub stats](https://github-readme-stats.vercel.app/api?username=risanpaul04)](https://github.com/risanpaul04)
+
 
 <!-- link for the stats above (https://git.io/streak-stats)  -->
 
