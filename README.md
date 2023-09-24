@@ -12,11 +12,20 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=risanpaul04&theme=github-dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Thu)
 
+![Top Langs](https://github-readme-stats-risanpaul04.vercel.app/api/top-langs/?username=risanpaul04)
+
+
+
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=risanpaul04&theme=dracula)
 
 
 
-<!-- link for the stats above (https://git.io/streak-stats)  -->
+<!--
+      link for the stats above 
+1. (https://github.com/anuraghazra/github-readme-stats)
+2. (https://git.io/streak-stats)  
+
+-->
 
 <p align=center>Languages</p>
 <p align="center">
