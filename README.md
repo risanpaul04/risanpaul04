@@ -7,14 +7,17 @@
 
 <br>
 
-[![Risan's GitHub stats](https://github-readme-stats-risanpaul04.vercel.app/api?username=risanpaul04)](https://github.com/risanpaul04)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-risanpaul04.vercel.app/api?username=risanpaul04" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-risanpaul04.vercel.app/api/top-langs?username=risanpaul04&layout=donut&langs_count=4&card_width=320" />
+</a>
+
+
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=risanpaul04&theme=github-dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Thu)
-
-![Top Langs](https://github-readme-stats-risanpaul04.vercel.app/api/top-langs/?username=risanpaul04)
-
-
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=risanpaul04&theme=dracula)
 
