@@ -17,10 +17,9 @@
 
 <div align=center>
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=risanpaul04&theme=github-dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Thu)
+  [![GitHub Streak](https://github-readme-streak-stats-lake.vercel.app?user=risanpaul04&theme=tokyonight-duo&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Thu)](https://git.io/streak-stats)
   
 </div>
-
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=risanpaul04&theme=dracula)
 
