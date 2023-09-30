@@ -7,9 +7,9 @@
 
 <hr>
 <div display=flex>
-  <img height=200 align="center" src="https://github-readme-stats-risanpaul04.vercel.app/api?username=risanpaul04&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats-5evy.vercel.app/api?username=risanpaul04&theme=tokyonight" />
 
-  <img height=200 align="center" src="https://github-readme-stats-risanpaul04.vercel.app/api/top-langs?username=risanpaul04&layout=donut&langs_count=4&card_width=320&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats-5evy.vercel.app/api/top-langs?username=risanpaul04&layout=donut&langs_count=4&card_width=320&theme=tokyonight&exclude_repo=github-readme-stats,github-readme-streak-stats,git-sticker&hide=javascript" />
 </div>
 
 
@@ -17,7 +17,7 @@
 
 <div align=center>
   
-  [![GitHub Streak](https://github-readme-streak-stats-lake.vercel.app?user=risanpaul04&theme=tokyonight-duo&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Thu)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-lake.vercel.app?user=risanpaul04&theme=tokyonight&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Thu)](https://git.io/streak-stats)
   
 </div>
 
