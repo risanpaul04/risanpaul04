@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning DSA & Web development.
 - 😄 I'm Always ready to learn something new.
-- 🔭 I’m currently working as a teaching instructor.
 - 💬 Ask me about anything.
 
 <hr>
